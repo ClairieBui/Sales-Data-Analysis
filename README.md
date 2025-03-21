@@ -16,7 +16,7 @@ The e-commerce industry is rapidly expanding worldwide. By examining data from a
 ![image](https://github.com/user-attachments/assets/214e4e88-b1ea-4e6e-a8e4-4fb23e60e917)
 
   
-4. How can you determine the top-performing product categories within each customer segment based on sales and profit, focusing specifically on those categories that rank within the top two for profitability?
+3. How can you determine the top-performing product categories within each customer segment based on sales and profit, focusing specifically on those categories that rank within the top two for profitability?
 
 ![image](https://github.com/user-attachments/assets/30696b7c-bbc2-4e2c-9579-6ce779fcfe7e)
 
