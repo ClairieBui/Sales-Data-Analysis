@@ -193,9 +193,6 @@ Revise pricing or cost strategies: Loss-making categories like Supplies and Tabl
 
 Reallocation of Sales Efforts: Employees with low-profit categories should be encouraged to focus more on high-margin products.
 
----
-🔗 *For further improvements, feel free to fork this project and contribute!* 🚀
-
 
 ## 📌 **Conclusion & Recommendations**
 **Conclusion**
@@ -206,6 +203,8 @@ The analysis reveals that Phones, Copiers, and Paper are the most profitable cat
 - Enhance Employee Training – Encourage sales of Phones, Copiers, and Paper, and train employees to avoid low-profit categories.
 - Optimize Product Allocation – Reduce stock of low-margin products, increase marketing for high-performing items, and adjust pricing for unprofitable categories.
 
+---
+🔗 *For further improvements, feel free to fork this project and contribute!* 🚀
 
 
   
